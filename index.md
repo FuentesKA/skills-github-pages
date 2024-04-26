@@ -1,6 +1,4 @@
 ---
 title: Welcome to Alex's Profile
----
----
-date:04/26/2024
+date: 04/26/2024
 ---
